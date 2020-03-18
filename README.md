@@ -1,1 +1,1 @@
-# cs50x
+Ramiz Majeed
